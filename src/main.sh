@@ -1,3 +1,5 @@
+#!/bin/bash
+
 私yerの引いたカード（配列）					
 pCards=();					
 					
